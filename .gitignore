@@ -4,6 +4,7 @@
 
 # Java files
 /target
+/src/main/resources/certs
 
 # Javascript files
 /node_modules

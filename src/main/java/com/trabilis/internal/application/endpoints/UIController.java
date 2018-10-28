@@ -1,4 +1,4 @@
-package com.trabilis.internal.application;
+package com.trabilis.internal.application.endpoints;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
