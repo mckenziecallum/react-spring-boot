@@ -1,0 +1,16 @@
+#appContent {
+    height: 28%;
+    width: 100%;
+
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #343434;
+
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}

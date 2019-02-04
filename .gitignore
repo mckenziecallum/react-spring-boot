@@ -1,0 +1,12 @@
+# IDE files
+.idea
+*.iml
+
+# Java files
+/target
+/src/main/resources/certs
+
+# Javascript files
+/node_modules
+*-lock.json
+/src/main/resources/static/built
